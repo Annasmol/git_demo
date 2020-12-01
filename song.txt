@@ -1,3 +1,4 @@
+
 Empty spaces - what are we living for
 Abandoned places - I guess we know the score
 On and on, does anybody know what we are looking for
@@ -5,6 +6,7 @@ On and on, does anybody know what we are looking for
 Another hero, another mindless crime
 Behind the curtain, in the pantomime
 Hold the line, does anybody want to take it anymore
+
 
 The show must go on
 The show must go on
@@ -42,3 +44,28 @@ I have to find the will to carry on
 On with the -
 On with the show -
 The show must go on
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+вторая часть песни
+>>>>>>> feature
